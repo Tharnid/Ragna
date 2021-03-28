@@ -1,0 +1,13 @@
+D:\GH\Rust\web\mim-tokio-tcp\target\debug\deps\memchr-b61c6ca4f70c60a8.rmeta: C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\lib.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\fallback.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\iter.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\naive.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\x86\mod.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\x86\avx.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\x86\sse2.rs
+
+D:\GH\Rust\web\mim-tokio-tcp\target\debug\deps\libmemchr-b61c6ca4f70c60a8.rlib: C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\lib.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\fallback.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\iter.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\naive.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\x86\mod.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\x86\avx.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\x86\sse2.rs
+
+D:\GH\Rust\web\mim-tokio-tcp\target\debug\deps\memchr-b61c6ca4f70c60a8.d: C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\lib.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\fallback.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\iter.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\naive.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\x86\mod.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\x86\avx.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\x86\sse2.rs
+
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\lib.rs:
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\fallback.rs:
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\iter.rs:
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\naive.rs:
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\x86\mod.rs:
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\x86\avx.rs:
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.3.4\src\x86\sse2.rs:

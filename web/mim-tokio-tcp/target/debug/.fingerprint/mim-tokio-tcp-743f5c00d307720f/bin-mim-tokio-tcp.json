@@ -1,0 +1,1 @@
+{"rustc":13067417532801700880,"features":"[]","target":4780822344499878328,"profile":18074012566298724745,"path":1036222786711178230,"deps":[[1290362607196414721,"tokio",false,12312401886111274439]],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\mim-tokio-tcp-743f5c00d307720f\\dep-bin-mim-tokio-tcp"}}],"rustflags":[],"metadata":13517649620413896072,"config":0}
