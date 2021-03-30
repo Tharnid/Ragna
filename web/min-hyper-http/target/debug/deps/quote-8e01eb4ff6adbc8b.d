@@ -1,0 +1,13 @@
+D:\GH\Rust\web\min-hyper-http\target\debug\deps\quote-8e01eb4ff6adbc8b.rmeta: C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\lib.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ext.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\format.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ident_fragment.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\to_tokens.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\runtime.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\spanned.rs
+
+D:\GH\Rust\web\min-hyper-http\target\debug\deps\libquote-8e01eb4ff6adbc8b.rlib: C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\lib.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ext.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\format.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ident_fragment.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\to_tokens.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\runtime.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\spanned.rs
+
+D:\GH\Rust\web\min-hyper-http\target\debug\deps\quote-8e01eb4ff6adbc8b.d: C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\lib.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ext.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\format.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ident_fragment.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\to_tokens.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\runtime.rs C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\spanned.rs
+
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\lib.rs:
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ext.rs:
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\format.rs:
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\ident_fragment.rs:
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\to_tokens.rs:
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\runtime.rs:
+C:\Users\Meddl\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.9\src\spanned.rs:
